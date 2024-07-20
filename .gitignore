@@ -1,0 +1,35 @@
+# ignore pycache files
+__pycache__/
+*.py[cod]
+
+# ignore vscode folder
+.vscode/*
+
+# # ignore data folder
+# dataset
+# dataset/*
+# output
+# output/*
+
+# # ignore test code
+# code_test/*
+
+# # ignore checkpoint foler
+# ckpt/*
+# !ckpt/.gitkeep
+
+# # ignore training script file
+# *.sh
+
+
+# # add by  hl
+# test_result
+# test_result/*
+
+# compare_img
+# compare_img/*
+# conf
+# conf/*
+
+# figs
+# figs/*
